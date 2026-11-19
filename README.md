@@ -1,6 +1,5 @@
 # AI KruBoo Chatbot
 
-Proyek ini adalah implementasi awal dari chatbot AI bernama **KruBoo**.
 
 ## Struktur Direktori
   - `bot.py`: Logika chatbot AI (pemrosesan pesan, dll).
