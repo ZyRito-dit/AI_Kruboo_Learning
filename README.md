@@ -2,7 +2,6 @@
 
 
 ## Struktur Direktori
-  - `bot.py`: Logika chatbot AI (pemrosesan pesan, dll).
   - `config.py`: Pengaturan konfigurasi aplikasi.
 - `main.py`: Entry point untuk menjalankan aplikasi.
 - `requirements.txt`: Daftar dependensi Python.
