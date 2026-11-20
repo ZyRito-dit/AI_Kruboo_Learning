@@ -2,7 +2,6 @@
 
 
 ## Struktur Direktori
-- `main.py`: Entry point untuk menjalankan aplikasi.
 - `requirements.txt`: Daftar dependensi Python.
 - `.env.example`: Contoh file environment variables.
 
